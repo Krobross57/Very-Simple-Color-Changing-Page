@@ -4,4 +4,4 @@ Voici une page simple qui se compose de 3 fichiers :
 
 - Une feuille de style CSS nommée style.css qui se chagera de mettre le texte en couleur
 
-- Un script JS qui fera changer la couleur du texte à intervalles réguliers
+- Un script JS qui fera changer la couleur du texte après quelques secondes
